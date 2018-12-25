@@ -6,7 +6,7 @@ body, p, h1, h2 {
 
 #background {
     background-image: url("https://afremov.com/images/product/image_854.jpeg");
-    height: auto;
+    height: 200%;
     width: 100%;
     background-position: center;
     background-size: cover;
@@ -161,8 +161,4 @@ body, p, h1, h2 {
     #button, #city_inp {
         font-size: 54px;
     }
-   #background {
-   height: 120vh;
-   width: 100%;
-   }
 }
