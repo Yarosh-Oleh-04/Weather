@@ -162,7 +162,7 @@ body, p, h1, h2 {
         font-size: 54px;
     }
    #background {
-   height: 1920px;
-   width: 1080px;
+   height: 120vh;
+   width: 100%;
    }
 }
