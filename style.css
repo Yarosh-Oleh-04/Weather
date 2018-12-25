@@ -5,7 +5,7 @@ body, p, h1, h2 {
 }
 
 #background {
-    background-image: url(./Images/background.jpg);
+    background-image: url(.background.jpg);
     height: 100%;
     width: 100%;
     background-position: center;
