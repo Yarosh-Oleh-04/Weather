@@ -124,7 +124,7 @@ body, p, h1, h2 {
     height: 10vh;
 }
 
-@media screen and (max-width: 1024px){
+@media screen and (max-width: 100vh){
     .weather {
         padding: 0;
         display: flex;
